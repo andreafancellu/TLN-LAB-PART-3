@@ -1,4 +1,4 @@
-// <Lattice object of 5 atoms 21 concepts 4 coatoms at 0x1035f3d60>
+// <Lattice object of 5 atoms 21 concepts 4 coatoms at 0x249191a3c10>
 digraph Lattice {
 	node [label="" shape=circle style=filled width=.25]
 	edge [dir=none labeldistance=1.5 minlen=2]
